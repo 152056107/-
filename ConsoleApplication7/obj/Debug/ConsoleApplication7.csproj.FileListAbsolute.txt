@@ -1,0 +1,5 @@
+G:\visual stadio workspace\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+G:\visual stadio workspace\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+G:\visual stadio workspace\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+G:\visual stadio workspace\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+G:\visual stadio workspace\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
